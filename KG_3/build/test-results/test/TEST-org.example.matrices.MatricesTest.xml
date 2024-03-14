@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.matrices.MatricesTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-03-13T14:23:55" hostname="DESKTOP-KAEOM7S" time="0.026">
+  <properties/>
+  <testcase name="addNew()" classname="org.example.matrices.MatricesTest" time="0.017"/>
+  <testcase name="mulNew()" classname="org.example.matrices.MatricesTest" time="0.001"/>
+  <testcase name="subNew()" classname="org.example.matrices.MatricesTest" time="0.001"/>
+  <testcase name="add()" classname="org.example.matrices.MatricesTest" time="0.001"/>
+  <testcase name="mul()" classname="org.example.matrices.MatricesTest" time="0.001"/>
+  <testcase name="sub()" classname="org.example.matrices.MatricesTest" time="0.001"/>
+  <testcase name="trans()" classname="org.example.matrices.MatricesTest" time="0.0"/>
+  <testcase name="mulVect()" classname="org.example.matrices.MatricesTest" time="0.002"/>
+  <testcase name="setNull()" classname="org.example.matrices.MatricesTest" time="0.0"/>
+  <testcase name="setUnit()" classname="org.example.matrices.MatricesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
